@@ -1,86 +1,71 @@
-# Citizen Code of Conduct
+# Contributor Covenant Code of Conduct
 
-## 1. Purpose
+Our Pledge
+As members, contributors, and leaders, we pledge to foster a harassment-free community experience for everyone, regardless of age, body size, disability (visible or invisible), ethnicity, gender identity, gender expression, sex characteristics, experience level, education, socio-economic background, nationality, personal appearance, race, religion, or sexual orientation.
 
-A primary goal of Iconlot is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Our Standards
+Examples of behaviors that contribute to a positive environment for our community include:
 
-We invite all those who participate in Iconlot to help us create safe and positive experiences for everyone.
+Demonstrating empathy and kindness toward others
+Being respectful of differing opinions, viewpoints, and experiences
+Accepting and offering constructive feedback gracefully
+Acknowledging mistakes, accepting responsibility, and learning from them
+Prioritizing the well-being of the community over individual preferences
+Examples of unacceptable behavior include:
 
-## 2. Open [Source/Culture/Tech] Citizenship
+The use of sexualized language or imagery, and unwelcome sexual attention or advances
+Trolling, insults, derogatory comments, or personal attacks
+Public or private harassment
+Publishing others' private information, such as a physical or email address, without explicit permission
+Other conduct which could reasonably be considered inappropriate in a professional setting
+Enforcement Responsibilities
+Community leaders are responsible for enforcing our standards and will take appropriate, fair action in response to any behavior deemed inappropriate, threatening, offensive, or harmful.
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Community leaders have the right to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct. They will communicate reasons for moderation decisions when necessary.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [email address].
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+All complaints will be reviewed and investigated promptly and fairly.
+Community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-## 3. Expected Behavior
+Enforcement Guidelines
+Community leaders will follow these guidelines when determining the consequences for violations of this Code of Conduct:
 
-The following behaviors are expected and requested of all community members:
+1. Correction
+Community Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome.
+Consequence: A private written warning from community leaders, clarifying the violation and why the behavior was inappropriate. A public apology may be requested.
 
- * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- * Exercise consideration and respect in your speech and actions.
- * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
- * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+2. Warning
+Community Impact: A violation through a single incident or series of actions.
+Consequence: A formal warning with consequences for continued behavior. No interaction with the people involved for a specified period of time, including unsolicited interaction with those enforcing the Code of Conduct. Violating these terms may lead to further actions, such as a temporary or permanent ban.
 
-## 4. Unacceptable Behavior
+3. Temporary Ban
+Community Impact: A serious violation of community standards, including sustained inappropriate behavior.
+Consequence: A temporary ban from all community interaction and communication for a specified period. Violating these terms may result in a permanent ban.
 
-The following behaviors are considered harassment and are unacceptable within our community:
-
- * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
- * Posting or displaying sexually explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
- * Inappropriate photography or recording.
- * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Deliberate intimidation, stalking or following (online or in person).
- * Advocating for, or encouraging, any of the above behavior.
- * Sustained disruption of community events, including talks and presentations.
-
-## 5. Weapons Policy
-
-No weapons will be allowed at Iconlot events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
-
-## 6. Consequences of Unacceptable Behavior
-
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
-
-## 7. Reporting Guidelines
-
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. https://iconlot.vercel.app/ilt/supportcenter.
-
-[Reporting guidelines](https://iconlot.vercel.app/ilt/termsofuse)
-
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
-## 8. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Iconlot with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://iconlot.vercel.app/ilt/privacypolicy)
+4. Permanent Ban
+Community Impact: Sustained inappropriate behavior, harassment, or aggression toward individuals or groups.
+Consequence: A permanent ban from any interaction within the community.
 
 
+**Consequence**: A permanent ban from any sort of public interaction within
+the community.
 
-## 9. Scope
+## Attribution
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
 
-## 10. Contact info
+[homepage]: https://www.contributor-covenant.org
 
-https://iconlot.vercel.app/ilt/supportcenter
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
 
-## 11. License and attribution
-
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
-
-Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
